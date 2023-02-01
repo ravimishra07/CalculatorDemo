@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator Demo</string>
+    <string name="enter_valid_number">Please Input a valid number</string>
+    <string name="field_empty">Field empty</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="enter_second_number">Enter Second number</string>
+    <string name="add">Add</string>
+    <string name="subtract">Subtract</string>
+</resources>
